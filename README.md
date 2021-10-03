@@ -290,4 +290,9 @@ A telegram bot list collection
 | [SessionStringGenBot](https://t.me/SessionStringGenBoT) | Bot For Generating Pyrogram String Session. |
 | [BanInfoRobot](https://t.me/BanInfoRobot) | Checks if the user is banned in various Telegram's Anti-Spam Services like SpamWatch, CAS, etc. |
 
+### Dev Bots
+| Bot | Description |
+|---|---|
+| [GithubReleasesBot](https://t.me/GithubReleasesBot) | Notify the user for a followed GitHub repository's new releases |
+
 ---
