@@ -289,5 +289,6 @@ A telegram bot list collection
 | [TgScanRobot](https://t.me/tgscanroBot) | A Bot To Show Which Telegram Groups A Person Is Member Of. |
 | [SessionStringGenBot](https://t.me/SessionStringGenBoT) | Bot For Generating Pyrogram String Session. |
 | [BanInfoRobot](https://t.me/BanInfoRobot) | Checks if the user is banned in various Telegram's Anti-Spam Services like SpamWatch, CAS, etc. |
+| [StickerDownloadBot](https://t.me/StickerDownloadBot) | Download any Telegram sticker in jpg, png & webp formats, or whole sticker pack in zip form |
 
 ---
