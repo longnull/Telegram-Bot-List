@@ -282,6 +282,7 @@ A telegram bot list collection
 | Bot | Description |
 |---|---|
 | [TemporaryEmailBot](https://t.me/TemporaryEmailBot) | A Bot Which Can Generate Temporary Emails. |
+| [DropMailBot](https://t.me/DropMailBot) | DropMail.me in Telegram |
 
 ### Telegram Utility Bots
 
